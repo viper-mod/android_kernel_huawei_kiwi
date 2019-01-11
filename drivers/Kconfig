@@ -188,4 +188,10 @@ source "drivers/soc/Kconfig"
 
 source "drivers/firmware/Kconfig"
 
+source "drivers/huawei_platform/Kconfig"
+
+source "drivers/hw_fac_info/Kconfig"
+
+source "drivers/hwusb/Kconfig"
+
 endmenu
